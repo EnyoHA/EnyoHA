@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi I'm Enyo 👋
+- 😄 Pronouns: He/Him
+## Junior Full Stack Developer
+- 🔭 I’m currently working on improving my JavaScript skills
+- 🌱 I’m currently learning CompTIA A+ exams
+
+
 
 <!--
 **EnyoHA/EnyoHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
