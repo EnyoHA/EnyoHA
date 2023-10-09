@@ -1,6 +1,6 @@
 ### Hi I'm Enyo 👋
 - 😄 Pronouns: He/Him
-## Junior Full Stack Developer
+#### Junior Full Stack Developer
 - 🔭 I’m currently working on improving my JavaScript skills
 - 🌱 I’m currently learning CompTIA A+ exams
 
